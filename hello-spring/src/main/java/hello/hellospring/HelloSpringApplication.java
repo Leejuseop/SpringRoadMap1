@@ -10,4 +10,5 @@ public class HelloSpringApplication {
 		SpringApplication.run(HelloSpringApplication.class, args);
 	}
 
+	//MemoryMemberRepository 테스트 케이스 작성부터 보면된다잉
 }
